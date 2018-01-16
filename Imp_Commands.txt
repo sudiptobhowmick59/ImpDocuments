@@ -1,0 +1,22 @@
+netstat -a -n -o | find "27017"
+----------------------------------------------------------------------------------------------------------
+cd D:\Sudipto_sxb9638\AboveStoreSoftware\MongoDB\Server\3.6\bin
+
+mongod --dbpath "D:\Sudipto_sxb9638\AboveStoreSoftware\MongoDB\data\db"
+----------------------------------------------------------------------------------------------------------
+RDP : ctrl + alt + end
+
+rimraf node_modules
+
+resmon.exe
+
+Taskkill /PID 14328 /F
+ 
+NotePad++ Regular expression to find space :  	^\s*    
+
+sqlcmd -S servername -i script.sql -U bakadmin
+
+topas
+------------------------------------------------------------------------------------------------------------
+https://cognizantcorp.webex.com/mw3100/mywebex/default.do?siteurl=cognizantcorp  
+
