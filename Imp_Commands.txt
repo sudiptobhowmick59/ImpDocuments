@@ -18,5 +18,5 @@ sqlcmd -S servername -i script.sql -U bakadmin
 
 topas
 ------------------------------------------------------------------------------------------------------------
-https://cognizantcorp.webex.com/mw3100/mywebex/default.do?siteurl=cognizantcorp  
+
 
